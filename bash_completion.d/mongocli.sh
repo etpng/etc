@@ -1,0 +1,1 @@
+../../Cellar/mongocli/1.15.3/etc/bash_completion.d/mongocli.sh
