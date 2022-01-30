@@ -1,0 +1,1 @@
+../../Cellar/taskwarrior-tui/0.16.1/etc/bash_completion.d/taskwarrior-tui.bash

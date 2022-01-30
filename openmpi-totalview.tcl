@@ -1,1 +1,1 @@
-../Cellar/open-mpi/4.1.1_2/etc/openmpi-totalview.tcl
+../Cellar/open-mpi/4.1.2/etc/openmpi-totalview.tcl

@@ -1,0 +1,1 @@
+../../Cellar/task/2.6.1/etc/bash_completion.d/task.sh

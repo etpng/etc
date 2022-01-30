@@ -1,0 +1,1 @@
+../../Cellar/nnn/4.4/etc/bash_completion.d/nnn-completion.bash

@@ -1,1 +1,1 @@
-../../Cellar/cheat/4.2.1/etc/bash_completion.d/cheat.bash
+../../Cellar/cheat/4.2.3/etc/bash_completion.d/cheat.bash

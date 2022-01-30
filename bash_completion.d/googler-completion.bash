@@ -1,0 +1,1 @@
+../../Cellar/googler/4.3.2_1/etc/bash_completion.d/googler-completion.bash

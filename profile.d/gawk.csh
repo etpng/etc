@@ -1,1 +1,1 @@
-../../Cellar/gawk/5.1.0/etc/profile.d/gawk.csh
+../../Cellar/gawk/5.1.1/etc/profile.d/gawk.csh
