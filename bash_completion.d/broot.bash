@@ -1,1 +1,1 @@
-../../Cellar/broot/1.7.5/etc/bash_completion.d/broot.bash
+../../Cellar/broot/1.13.1/etc/bash_completion.d/broot.bash

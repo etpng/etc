@@ -1,1 +1,1 @@
-../../Cellar/rabbitmq/3.9.11/etc/bash_completion.d/rabbitmqadmin.bash
+../../Cellar/rabbitmq/3.10.0/etc/bash_completion.d/rabbitmqadmin.bash

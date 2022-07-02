@@ -14,7 +14,7 @@ pidfile		/usr/local/var/run/slapd.pid
 argsfile	/usr/local/var/run/slapd.args
 
 # Load dynamic backend modules:
-modulepath	/usr/local/Cellar/openldap/2.6.0/libexec/openldap
+modulepath	/usr/local/Cellar/openldap/2.6.2/libexec/openldap
 moduleload	back_mdb.la
 # moduleload	back_ldap.la
 

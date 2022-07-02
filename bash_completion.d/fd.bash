@@ -1,1 +1,1 @@
-../../Cellar/fd/8.3.0/etc/bash_completion.d/fd.bash
+../../Cellar/fd/8.3.2/etc/bash_completion.d/fd.bash

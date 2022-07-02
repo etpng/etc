@@ -1,1 +1,1 @@
-../../Cellar/git-flow/0.4.1/etc/bash_completion.d/git-flow-completion.bash
+../../Cellar/git-flow/0.4.1_1/etc/bash_completion.d/git-flow-completion.bash
