@@ -1,1 +1,1 @@
-../../Cellar/rust/1.59.0/etc/bash_completion.d/cargo.bashcomp.sh
+../../Cellar/rust/1.62.0/etc/bash_completion.d/cargo.bashcomp.sh
